@@ -1,6 +1,6 @@
 # Raccoon-Website
 
-This website was part of a final for a web development course. 
+This website was for a final for a web development course. 
 
 The assignment was to create a website about your favorite animal. 
 
